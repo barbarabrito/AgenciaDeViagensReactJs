@@ -1,0 +1,50 @@
+
+.navbar .navbar-brand{
+  color: white;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+  
+  color: rgb(217, 255, 0);
+   
+}
+
+.navbar-nav li{
+  padding-left:15px;
+  padding-right:15px;
+}
+
+a.navbar-brand {
+  
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+.navbar{
+  background-color: rgb(223, 174, 102);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+@media (max-width: 991.98px){   
+  .fa-archway{
+    display: none;
+  }
+}

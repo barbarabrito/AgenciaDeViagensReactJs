@@ -1,0 +1,57 @@
+
+.destino-section hr{
+    color: rgb(251,171,88);
+  }
+  .destino-section i.fa{
+  
+    color: rgb(251,171,88);
+    font-size: 20px;
+  }
+  
+  .destino-section h1{ 
+  
+    color: #0070e9;
+  }
+  
+  .destino-section{
+    font-family: 'Rubik', sans-serif;
+    margin-top: 3em;
+    
+  }
+  
+  .destino-section h3{
+  
+    font-family: 'Raleway', sans-serif;
+    color: rgb(251,171,88);
+  }
+  
+  .destino-section a{
+    text-decoration: none;
+  }
+  
+  .card-title{
+    color: #0070e9;
+  }
+  
+  .card-text{
+   color: #7e7e7e; 
+   font-weight: 900;
+  }
+  
+  .preco-destino{
+    color: #ECB365;
+    font-weight: 900;
+  }
+  
+  .paraiba, .bahia, .pernambuco, .ceara, .alagoas, .rio-grande-do-norte, .maranhao, .piaui{
+  
+    margin-top: 2em;
+  } 
+
+  .cards-section img{
+
+    height: 280px;
+    object-fit: cover;
+    width: 100%;
+    
+  }

@@ -1,0 +1,52 @@
+.container-inicial{
+    position: relative;
+    font-family: 'Rubik', sans-serif;
+    
+  }
+  
+  .container-inicial h3{
+    font-size: 2em;
+  }
+  
+  #btn-saiba-mais{
+  
+    padding: 0.4em;
+    border-radius: 4px;
+    border-color: white;
+    background-color: transparent;
+    
+  }
+  
+  
+  #pq-a{
+    text-decoration: none;
+    color: white;
+  }
+  
+  .img-wrapper{
+  
+    height: 400px;
+      width: 100%;
+    background-color:rgb(85, 83, 83);
+      
+  }
+  
+  .img-wrapper img{
+  
+  
+      height: 400px;
+      object-fit: cover;
+      width: 100%;
+      opacity: 0.4;
+      
+  }
+  
+  .texto-banner{
+    
+    margin-right: 1em;
+    position: absolute;
+    top: 35%;
+    left: 15%;
+    color: white;
+  }
+  

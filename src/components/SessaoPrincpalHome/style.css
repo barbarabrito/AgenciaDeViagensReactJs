@@ -1,0 +1,62 @@
+.pq-section{
+
+    margin: 8em 0;
+    text-align: center;
+  }
+  
+  .pq-section-row{
+    justify-content: space-between;
+  }
+  
+  .pq-section h4{
+    font-family: 'Raleway', sans-serif;
+    color: #0070e9;
+  }
+  
+  .pq-section p{
+    color: rgb(53, 52, 52)
+  }
+  
+  .pq-section i.fa{
+  
+    color:  rgb(251,171,88);
+    font-size: 30px;
+  }
+  
+  #melhores-precos, #rapido-e-facil, #atendimento{  
+
+    border-radius: 1em;
+    padding: 3em;
+    margin-bottom: 2em; 
+    transition: 0.5s ease-in-out;
+  }
+  
+  #melhores-precos:hover, #rapido-e-facil:hover, #atendimento:hover{
+    box-shadow: 0 3px 8px #c9c7c2;
+  }
+  .newsletter{
+    background-color: blanchedalmond;
+    padding: 4em;
+   
+  }
+  
+  .newsletter h2,h6{
+    text-align: center;
+  }
+  
+  .fas-envelope{
+    font-size: 9px;
+  }
+  
+  .newsletter h6{
+    color: #7e7e7e;
+  }
+
+  .newsletter-form{
+    max-width: 720px;
+    margin: auto;
+  }
+  
+  .iconearrow{
+    color: #0070e9;
+  }

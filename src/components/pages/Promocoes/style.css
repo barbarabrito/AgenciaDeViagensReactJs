@@ -1,0 +1,31 @@
+.promocoes-section{
+
+    font-family: 'Rubik', sans-serif;
+    margin-top: 3em;
+  }
+  
+  .promocoes-section hr{
+    color: rgb(251,171,88);
+  }
+  
+  .promocoes-section h1{
+    color: #0070e9;
+  }
+  
+  .promocoes-section h3{
+    color: #58B4AE;
+  }
+  
+  .promocoes-section img{
+    object-fit: cover;
+    height: 280px;
+    width: 100%;
+  }
+  
+  .desconto{
+    width: 78px;
+    color: white;
+    background-color:rgb(251,171,88);
+    padding: 0.1em;
+  }
+  

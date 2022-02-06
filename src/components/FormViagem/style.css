@@ -1,0 +1,146 @@
+.form-viagem-geral{
+    margin-bottom:3em;
+    box-shadow: 0 2px 6px #dbd9d3;
+    padding:1.5em;
+    background-color: rgb(223, 174, 102);
+    overflow: hidden;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+}
+
+
+.form-viagem{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.form-viagem p {
+    color: #fff;
+    margin: 0.5em;
+}
+
+.form-viagem input{
+   
+    border-radius:10px;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+
+}
+
+.counter-div{
+
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    
+}
+
+#input-destino{
+    max-width: 300px;
+}
+
+.counter{
+    color: #fff;
+   
+}
+
+#btn-buscar{
+    
+    margin-right: 0.5em;
+    background: rgb(217, 255, 0);;
+    color: rgb(47, 29, 163);
+    border: none;
+    cursor: pointer;
+    border-radius: 50%;
+    
+}
+
+.fa-search{
+    font-size: 12px;
+}
+
+.inc-dec{
+
+    padding-top:0;
+    padding-bottom:0;
+    color:#fff;
+    outline: none;
+	box-shadow:none;
+}
+
+
+.inc-dec:focus{
+    border: none;
+    outline:none;
+	box-shadow:none;
+}
+
+.inputgroup-viagem{
+   
+    max-width: 100px;
+
+}
+
+.inputgroup-viagem:focus{
+    box-shadow: none;
+}
+
+
+.inputgroup-viagem::placeholder{
+    color: rgb(224, 192, 143);
+    font-size: 15px;
+    text-align: center;
+}
+
+#form-destino{
+    max-width: 250px;
+    border-top:3px solid rgb(231, 206, 169);
+    border-bottom:3px solid rgb(231, 206, 169);
+    border-left:3px solid rgb(231, 206, 169);
+
+}
+
+#checkin{
+    border-top:3px solid rgb(231, 206, 169);
+    border-bottom:3px solid rgb(231, 206, 169);
+
+}
+
+#checkout{
+    border-top:3px solid rgb(231, 206, 169);
+    border-bottom:3px solid rgb(231, 206, 169);
+    border-right: 3px solid rgb(231, 206, 169);
+}
+
+#checkin,#checkout{
+    max-width:120px;
+}
+
+@media (max-width: 991.98px){   
+    .input-container{
+        display: block;      
+    }
+}
+
+@media (max-width: 420.98px){   
+    .form-viagem{
+        display: block;
+        
+    }
+
+    .form-viagem p{
+        margin: 0.1em;
+    }
+    #btn-buscar{
+        height:35px;
+        width: 35px;
+        margin:0;
+    }
+ 
+}

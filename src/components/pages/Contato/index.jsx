@@ -37,7 +37,7 @@ function Contato() {
                             </textarea>
                             <br />
                             <br />
-                            <button type="submit" className="btn btn-primary" id="btn-contato">Enviar</button>
+                            <button type="reset" value="Reset" className="btn btn-primary" id="btn-contato">Enviar</button>
                         </fieldset>
                     </form>
                 </div>

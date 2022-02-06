@@ -8,7 +8,7 @@ Você pode acessar em https://agenciadeviagens.netlify.app
 
 EN-US
 
-React App I made for RecodePro 2021
+React App I made for a RecodePro assignment
 
 You can access in https://agenciadeviagens.netlify.app or download and run in your local pc. 
 

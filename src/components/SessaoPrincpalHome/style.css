@@ -36,7 +36,7 @@
   }
   .newsletter{
     background-color: blanchedalmond;
-    padding: 4em;
+    padding: 3em;
    
   }
   
@@ -60,3 +60,10 @@
   .iconearrow{
     color: #0070e9;
   }
+
+ 
+@media (max-width: 500px){ 
+  .newsletter{
+    padding:2em;
+  }
+}

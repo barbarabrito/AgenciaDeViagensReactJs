@@ -144,3 +144,14 @@
     }
  
 }
+
+@media (max-width: 500px){   
+    .form-viagem-geral{
+        border-bottom-left-radius:0;
+        border-bottom-right-radius:0;
+    }
+
+    .counter-div{
+        margin-top: 0.5em;
+    }
+}

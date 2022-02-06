@@ -4,15 +4,13 @@ import FormViagem from '../../FormViagem';
 import PageHeader from '../../PageHeader';
 import SessaoPrincipalHome from '../../SessaoPrincpalHome';
 
-
 function Home() {
 
 
     return (
-        <>
-            
+        <>         
             <PageHeader/>
-            <div className="container">
+            <div className="container cf">
                 <FormViagem/>
                 <CardsCarousel />
             </div>

@@ -33,7 +33,7 @@
   
   .formulario{
     background-color:lightslategray;
-    margin: 3em auto;
+    margin: 4em auto;
     padding: 6em;
     border: 1px solid rgb(217, 218, 217);
     max-width: 600px;
@@ -61,4 +61,8 @@
     .formulario{
       padding:3em;
     }
+    .contato-section h2{
+     font-size: 25px;
+    }
+    
 }

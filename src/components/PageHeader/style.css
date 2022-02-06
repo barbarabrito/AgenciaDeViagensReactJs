@@ -1,7 +1,7 @@
 .container-inicial{
     position: relative;
     font-family: 'Rubik', sans-serif;
-    
+   
   }
   
   .container-inicial h3{
@@ -17,7 +17,6 @@
     
   }
   
-  
   #pq-a{
     text-decoration: none;
     color: white;
@@ -32,13 +31,10 @@
   }
   
   .img-wrapper img{
-  
-  
-      height: 400px;
-      object-fit: cover;
-      width: 100%;
-      opacity: 0.4;
-      
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+    opacity: 0.4; 
   }
   
   .texto-banner{

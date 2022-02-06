@@ -13,12 +13,12 @@ function Contato() {
                     <form>
                         <fieldset>
                             <div className="form-group">
-                                <label for="TextInput" className="form-label">Nome:</label>
+                                <label htmlFor="TextInput" className="form-label">Nome:</label>
                                 <input type="text" id="TextInput" className="form-control" placeholder="seu nome"/>
                             </div>
                             <br />
                             <div className="mb-3">
-                                <label for="exampleInputEmail1" className="form-label">Email:</label>
+                                <label htmlFor="exampleInputEmail1" className="form-label">Email:</label>
                                 <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="seu email"/>
                             </div>
                             <br />

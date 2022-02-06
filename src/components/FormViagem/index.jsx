@@ -49,7 +49,7 @@ function FormViagem(props) {
                             <button type="button" className="btn inc-dec" onClick={handleDecT}>-</button>
                             <p>{props.c}</p>
                             <button type="button" className="btn inc-dec" onClick={handleIncT}>+</button>
-                            <button type="submit" className="btn" id="btn-buscar"><i class="fa fa-search"></i></button>
+                            <button type="submit" className="btn" id="btn-buscar"><i className="fa fa-search"></i></button>
                         </div>
                     </div>
                 </form>

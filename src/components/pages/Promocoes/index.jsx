@@ -168,7 +168,6 @@ function Promocoes() {
                     </div>
                 </div>
             </div>
-
             <br />
         </main>
     );

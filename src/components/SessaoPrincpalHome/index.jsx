@@ -37,7 +37,7 @@ function SessaoPrincipalHome() {
                 <br />
                 <form className="row row-cols-lg-auto g-2 align-items-center newsletter-form">
                     <div className="col-12">
-                        <label className="visually-hidden" for="inlineFormInputGroupUsername">Username</label>
+                        <label className="visually-hidden" htmlFor="inlineFormInputGroupUsername">Username</label>
                         <div className="input-group">
                             <div className="input-group-text"><i className="fas fa-envelope"></i></div>
                             <input type="email" className="form-control" id="inlineFormInputGroupUsername"

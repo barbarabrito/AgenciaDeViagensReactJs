@@ -12,7 +12,7 @@ function PageHeader() {
             <div className="texto-banner">
                 <h3>Encontre o melhor lugar<br/> para passar suas férias</h3>
                 <br/>
-                    <button id="btn-saiba-mais"><a href="#pq" id="pq-a">Saiba mais</a></button>
+                <button id="btn-saiba-mais"><a href="#pq" id="pq-a">Saiba mais</a></button>
             </div>
         </div>
        

@@ -46,3 +46,11 @@
     color: white;
   }
   
+  @media (max-width: 500px){   
+    .texto-banner{
+      top: 25%;
+      left: 10%;
+    }
+  }
+  
+  

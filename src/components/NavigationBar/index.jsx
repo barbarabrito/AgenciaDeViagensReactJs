@@ -13,19 +13,19 @@ function NavigationBar(){
                             <span className="navbar-toggler-icon"></span>
                         </button>
                         <div className="collapse navbar-collapse" id="navbarNav">
-                            <Link to="/"><a className="navbar-brand" href="# "><i class="fa fa-archway"></i></a></Link>
+                            <Link to="/" className="navbar-brand"><i className="fa fa-archway"></i></Link>
                             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                                 <li className="nav-item">                                   
-                                    <Link to="/"><a className="nav-link active" aria-current="page" href="# ">Home</a></Link>                                   
+                                    <Link to="/" className="nav-link active" aria-current="page">Home</Link>                                   
                                 </li>
                                 <li className="nav-item">                                   
-                                    <Link to="/destino"><a className="nav-link" href="# ">Destino</a></Link>                          
+                                    <Link to="/destino" className="nav-link">Destino</Link>                          
                                 </li>
                                 <li className="nav-item">
-                                   <Link to="/promocoes"><a className="nav-link" href="# ">Promoções</a></Link>
+                                   <Link to="/promocoes"  className="nav-link">Promoções</Link>
                                 </li>
                                 <li className="nav-item">
-                                  <Link to ="/contato"><a className="nav-link" href="# ">Contato</a></Link>
+                                  <Link to ="/contato" className="nav-link">Contato</Link>
                                 </li>
                             </ul>
                         </div>

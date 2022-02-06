@@ -24,125 +24,125 @@ function CardsCarousel() {
         <>
             <Carousel breakPoints={breakPoints}>
                 <div className="card c-carousel">
-                    <div class="card-idx h-100 card-idx shadow">
-                        <img src={JoaoPessoa} class="img-idx" alt="João Pessoa" />
-                        <div class="card-body">
-                            <h5 class="card-title">João Pessoa</h5>
+                    <div className="card-idx h-100 card-idx shadow">
+                        <img src={JoaoPessoa} className="img-idx" alt="João Pessoa" />
+                        <div className="card-body">
+                            <h5 className="card-title">João Pessoa</h5>
                             <p>Paraíba</p>
-                            <i class="fa fa-plane"></i>
-                            <i class="fa fa-bed"></i>
-                            <p class="card-text">R$ 380</p>
+                            <i className="fa fa-plane"></i>
+                            <i className="fa fa-bed"></i>
+                            <p className="card-text">R$ 380</p>
                         </div>
-                        <div class="card-footer">
-                            <Link to='/destino'><a href="# " target="_blank">Veja mais <i class="fa fa-arrow-right"></i></a></Link>
+                        <div className="card-footer">
+                            <Link to='/destino' target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
                 <div className="card c-carousel">
-                    <div class="card-idx h-100 card-idx shadow">
-                        <img src={Natal} class="img-idx" alt="Natal" />
-                        <div class="card-body">
-                            <h5 class="card-title">Natal</h5>
+                    <div className="card-idx h-100 card-idx shadow">
+                        <img src={Natal} className="img-idx" alt="Natal" />
+                        <div className="card-body">
+                            <h5 className="card-title">Natal</h5>
                             <p>Rio Grande do Norte</p>
-                            <i class="fa fa-plane"></i>
-                            <i class="fa fa-bed"></i>
-                            <p class="card-text">R$ 370</p>
+                            <i className="fa fa-plane"></i>
+                            <i className="fa fa-bed"></i>
+                            <p className="card-text">R$ 370</p>
                         </div>
-                        <div class="card-footer">
-                            <Link to='/destino'><a href="# " target="_blank">Veja mais <i class="fa fa-arrow-right"></i></a></Link>
+                        <div className="card-footer">
+                            <Link to='/destino' target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
 
                 <div className="card c-carousel">
 
-                    <div class="card-idx h-100 shadow">
-                        <img src={Salvador} class="img-idx" alt="Salvador" />
-                        <div class="card-body">
-                            <h5 class="card-title">Salvador</h5>
+                    <div className="card-idx h-100 shadow">
+                        <img src={Salvador} className="img-idx" alt="Salvador" />
+                        <div className="card-body">
+                            <h5 className="card-title">Salvador</h5>
                             <p>Bahia</p>
-                            <i class="fa fa-plane"></i>
-                            <i class="fa fa-bed"></i>
-                            <p class="card-text">R$ 380</p>
+                            <i className="fa fa-plane"></i>
+                            <i className="fa fa-bed"></i>
+                            <p className="card-text">R$ 380</p>
                         </div>
-                        <div class="card-footer">
-                            <Link to='/destino'><a href="# " target="_blank">Veja mais <i class="fa fa-arrow-right"></i></a></Link>
+                        <div className="card-footer">
+                            <Link to='/destino' target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
 
                 <div className="card c-carousel">
-                    <div class="card-idx h-100 shadow">
-                        <img src={Recife} class="img-idx" alt="Recife" />
-                        <div class="card-body">
-                            <h5 class="card-title">Recife</h5>
+                    <div className="card-idx h-100 shadow">
+                        <img src={Recife} className="img-idx" alt="Recife" />
+                        <div className="card-body">
+                            <h5 className="card-title">Recife</h5>
                             <p>Pernambuco</p>
-                            <i class="fa fa-plane"></i>
-                            <i class="fa fa-bed"></i>
-                            <p class="card-text">R$ 380</p>
+                            <i className="fa fa-plane"></i>
+                            <i className="fa fa-bed"></i>
+                            <p className="card-text">R$ 380</p>
                         </div>
-                        <div class="card-footer">
-                            <Link to='/destino'><a href="# " target="_blank">Veja mais <i class="fa fa-arrow-right"></i></a> </Link>
+                        <div className="card-footer">
+                            <Link to='/destino' target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
                 <div className="card c-carousel">
-                    <div class="card-idx h-100 shadow">
-                        <img src={Fortaleza} class="img-idx" alt="Fortaleza" />
-                        <div class="card-body">
-                            <h5 class="card-title">Fortaleza</h5>
+                    <div className="card-idx h-100 shadow">
+                        <img src={Fortaleza} className="img-idx" alt="Fortaleza" />
+                        <div className="card-body">
+                            <h5 className="card-title">Fortaleza</h5>
                             <p>Ceará</p>
-                            <i class="fa fa-plane"></i>
-                            <i class="fa fa-bed"></i>
-                            <p class="card-text">R$ 380</p>
+                            <i className="fa fa-plane"></i>
+                            <i className="fa fa-bed"></i>
+                            <p className="card-text">R$ 380</p>
                         </div>
-                        <div class="card-footer">
-                             <Link to='/destino'><a href="# " target="_blank">Veja mais <i class="fa fa-arrow-right"></i></a></Link>
+                        <div className="card-footer">
+                             <Link to='/destino' target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
                 <div className="card c-carousel">
-                    <div class="card-idx h-100 shadow">
-                        <img src={Porto} class="img-idx" alt="Porto Seguro" />
-                        <div class="card-body">
-                            <h5 class="card-title">Porto Seguro</h5>
+                    <div className="card-idx h-100 shadow">
+                        <img src={Porto} className="img-idx" alt="Porto Seguro" />
+                        <div className="card-body">
+                            <h5 className="card-title">Porto Seguro</h5>
                             <p>Bahia</p>
-                            <i class="fa fa-plane"></i>
-                            <i class="fa fa-bed"></i>
-                            <p class="card-text">R$ 400</p>
+                            <i className="fa fa-plane"></i>
+                            <i className="fa fa-bed"></i>
+                            <p className="card-text">R$ 400</p>
                         </div>
-                        <div class="card-footer">
-                             <Link to='/destino'><a href="# " target="_blank">Veja mais <i class="fa fa-arrow-right"></i></a></Link>
+                        <div className="card-footer">
+                             <Link to='/destino' target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
                 <div className="card c-carousel">
-                    <div class="card-idx h-100 shadow">
-                        <img src={Maceio} class="img-idx" alt="Maceió" />
-                        <div class="card-body">
-                            <h5 class="card-title">Maceió</h5>
+                    <div className="card-idx h-100 shadow">
+                        <img src={Maceio} className="img-idx" alt="Maceió" />
+                        <div className="card-body">
+                            <h5 className="card-title">Maceió</h5>
                             <p>Alagoas</p>
-                            <i class="fa fa-plane"></i>
-                            <i class="fa fa-bed"></i>
-                            <p class="card-text">R$ 375</p>
+                            <i className="fa fa-plane"></i>
+                            <i className="fa fa-bed"></i>
+                            <p className="card-text">R$ 375</p>
                         </div>
-                        <div class="card-footer">
-                            <Link to='/destino'><a href="# " target="_blank">Veja mais <i class="fa fa-arrow-right"></i></a></Link>
+                        <div className="card-footer">
+                            <Link to='/destino' target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
                 <div className="card c-carousel">
-                    <div class="card-idx h-100 shadow">
-                        <img src={CampinaGrande} class="img-idx" alt="Campina Grande" />
-                        <div class="card-body">
-                            <h5 class="card-title">Campina Grande</h5>
+                    <div className="card-idx h-100 shadow">
+                        <img src={CampinaGrande} className="img-idx" alt="Campina Grande" />
+                        <div className="card-body">
+                            <h5 className="card-title">Campina Grande</h5>
                             <p>Paraíba</p>
-                            <i class="fa fa-plane"></i>
-                            <i class="fa fa-bed"></i>
-                            <p class="card-text">R$ 380</p>
+                            <i className="fa fa-plane"></i>
+                            <i className="fa fa-bed"></i>
+                            <p className="card-text">R$ 380</p>
                         </div>
-                        <div class="card-footer">
-                            <a href="/destino" target="_blank">Veja mais <i class="fa fa-arrow-right"></i></a>
+                        <div className="card-footer">
+                            <Link to='/destino' target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>

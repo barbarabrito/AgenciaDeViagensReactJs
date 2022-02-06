@@ -1,6 +1,6 @@
 PT-BR
 
-Website de uma agência de viagens usando React desenvolvido para a avalição prática do módulo 4 do RecodePro 2021
+Website de uma agência de viagens usando React, desenvolvido para a avalição prática do módulo 4 do RecodePro 2021
 
 Você pode acessar em https://agenciadeviagens.netlify.app
 

@@ -1,6 +1,5 @@
 .pq-section{
-
-    margin: 8em 0;
+    margin: 6.5em 0;
     text-align: center;
   }
   
@@ -35,8 +34,10 @@
     box-shadow: 0 3px 8px #c9c7c2;
   }
   .newsletter{
-    background-color: blanchedalmond;
-    padding: 3em;
+    margin-top:5em;
+    background-color: rgb(255, 233, 202);
+    padding: 4.5em;
+    border-radius: 10px;
    
   }
   

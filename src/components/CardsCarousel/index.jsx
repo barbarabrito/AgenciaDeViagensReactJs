@@ -35,7 +35,7 @@ function CardsCarousel() {
                             <p className="card-text">R$ 380</p>
                         </div>
                         <div className="card-footer">
-                            <Link to="/destino" target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
+                            <Link to="/">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ function CardsCarousel() {
                             <p className="card-text">R$ 370</p>
                         </div>
                         <div className="card-footer">
-                            <Link to="/destino" target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
+                            <Link to="/">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@ function CardsCarousel() {
                             <p className="card-text">R$ 380</p>
                         </div>
                         <div className="card-footer">
-                            <Link to="/destino" target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
+                            <Link to="/">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
@@ -83,7 +83,7 @@ function CardsCarousel() {
                             <p className="card-text">R$ 380</p>
                         </div>
                         <div className="card-footer">
-                            <Link to="/destino" target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
+                            <Link to="/">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@ function CardsCarousel() {
                             <p className="card-text">R$ 380</p>
                         </div>
                         <div className="card-footer">
-                             <Link to="/destino" target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
+                            <Link to="/">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@ function CardsCarousel() {
                             <p className="card-text">R$ 400</p>
                         </div>
                         <div className="card-footer">
-                             <Link to="/destino" target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
+                            <Link to="/">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@ function CardsCarousel() {
                             <p className="card-text">R$ 375</p>
                         </div>
                         <div className="card-footer">
-                            <Link to="/destino" target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
+                            <Link to="/">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
@@ -143,7 +143,7 @@ function CardsCarousel() {
                             <p className="card-text">R$ 380</p>
                         </div>
                         <div className="card-footer">
-                            <Link to="/destino" target="_blank">Veja mais <i className="fa fa-arrow-right"></i></Link>
+                            <Link to="/">Veja mais <i className="fa fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
